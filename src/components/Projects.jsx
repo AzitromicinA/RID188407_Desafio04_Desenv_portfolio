@@ -3,17 +3,17 @@ import React from "react";
 const projects = [
   {
     title: "Designing Dashboards",
-    description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
     image: "https://i.imgur.com/MN0F1pZ.png"
   },
   {
     title: "Vibrant Portraits of 2020",
-    description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
     image: "https://i.imgur.com/AbQ1o2J.png"
   },
   {
     title: "36 Days of Malayalam type",
-    description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint.",
+    description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
     image: "https://i.imgur.com/3LZHS7E.png"
   }
 ];
