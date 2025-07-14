@@ -1,5 +1,5 @@
 import React from "react";
-import { FaInstagram, FaTwitter, FaFacebook } from "react-icons/fa";
+import { FaInstagram, FaTwitter, FaFacebook, FaLinkedin } from "react-icons/fa";
 
 export default function Footer() {
   return (
@@ -8,6 +8,7 @@ export default function Footer() {
         <FaFacebook />
         <FaInstagram />
         <FaTwitter />
+        <FaLinkedin />
       </div>
       <p>Copyright ©2025 All rights reserved</p>
     </footer>
