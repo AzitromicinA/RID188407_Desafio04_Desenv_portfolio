@@ -4,17 +4,17 @@ const projects = [
   {
     title: "Designing Dashboards",
     description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-    image: "https://i.imgur.com/MN0F1pZ.png"
+    image: "/assets/dashboard.png"
   },
   {
     title: "Vibrant Portraits of 2020",
     description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-    image: "https://i.imgur.com/AbQ1o2J.png"
+    image: "/assets/portrait.png"
   },
   {
     title: "36 Days of Malayalam type",
     description: "Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit officia consequat duis enim velit mollit. Exercitation veniam consequat sunt nostrud amet.",
-    image: "https://i.imgur.com/3LZHS7E.png"
+    image: "/assets/malayalam.png"
   }
 ];
 
@@ -28,7 +28,7 @@ export default function Projects() {
             <img
               src={project.image}
               alt={project.title}
-              className="w-28 h-20 object-cover rounded-md shadow-sm"
+              className="w-32 h-24 object-cover rounded-md shadow-sm"
             />
             <div>
               <h4 className="font-semibold mb-1">{project.title}</h4>
